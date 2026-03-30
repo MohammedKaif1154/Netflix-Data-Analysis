@@ -21,3 +21,4 @@ identify trends in content type, release year, country, genre, and ratings.
 
 ## Dataset
 Netflix Movies and TV Shows dataset (public dataset from Kaggle)
+<img width="1379" height="774" alt="image" src="https://github.com/user-attachments/assets/74a67427-0c85-4f3e-ac40-3614af0f1992" />
