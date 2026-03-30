@@ -9,6 +9,7 @@ identify trends in content type, release year, country, genre, and ratings.
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Jupyter Notebook
+- PowerBi 
 
 ## Key Insights
 - Movies dominate Netflix content compared to TV shows
